@@ -1,6 +1,6 @@
 # Advent-of-Code-2022
 
-Advent of Code 2022 is over. Leaderboard is set. So here you can find solutions, descriptions and input for all the problems.
+Advent of Code 2022 is over. Leaderboard is set. So here you can find solutions for all the problems.
 
 Solutions are all in Kotlin.
 
